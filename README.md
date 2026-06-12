@@ -1,4 +1,4 @@
-# File Management System @octocat :+1: This PR looks great - it's ready to merge! :shipit:
+# File Management System :shipit:
 
 A Python-based file management system that allows users to:
 
